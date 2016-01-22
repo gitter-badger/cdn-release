@@ -1,5 +1,7 @@
 # Highlight.js - CDN release
 
+[![Join the chat at https://gitter.im/lapanoid/cdn-release](https://badges.gitter.im/lapanoid/cdn-release.svg)](https://gitter.im/lapanoid/cdn-release?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the repository for the CDN release of highlight.js for both
 [cdnjs][1] and [jsDelivr][2]. If you were looking for the actual
 repository for highlight.js, it is [located here][3]. Otherwise, anyone
